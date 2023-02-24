@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Miguel! 👋
 
-Sou do tipo de pessoa que não fica tranquila quando visualiza problemas. Tanto por isso fui escolher fazer Ciência da Computação e estou aqui buscando compartilhar o que desenvolver.
+Sou do tipo de pessoa que não fica tranquila quando visualiza problemas. Tanto por isso fui escolher fazer Ciência da Computação, como forma de atuar com tecnologia, para permitir estar na atuação da resolução de problemas de nossa sociedade.
+
+E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvendo.
 
 Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https://miguelmoroni.github.io/devfolio/
 
