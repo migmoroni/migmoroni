@@ -7,8 +7,11 @@ E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvend
 
 Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https://miguelmoroni.github.io/devfolio/
 
+Você pode também, me acompanhar nas seguintes redes:
 
-
+<a href="https://medium.com/@miguelmoroni"><img src="" alt="Medium"></a>
+<a href="https://dev.to/miguelmoroni"><img src="" alt="Dev"></a>
+<a href="https://www.tabnews.com.br/miguelmoroni"><img src="" alt="TabNews"></a>
 
 
 <!--
