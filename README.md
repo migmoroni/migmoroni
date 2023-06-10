@@ -8,6 +8,8 @@ E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvend
 Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https://miguelmoroni.github.io/devfolio/
 
 Você pode também, me acompanhar nas seguintes redes:
+<a href="https://www.linkedin.com/in/miguelmoroni/"><img src="" alt="Medium"></a>
+<a href="https://twitter.com/miguelmoroni11"><img src="" alt="Medium"></a>
 
 <a href="https://medium.com/@miguelmoroni"><img src="" alt="Medium"></a>
 <a href="https://dev.to/miguelmoroni"><img src="" alt="Dev"></a>
