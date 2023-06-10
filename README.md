@@ -10,8 +10,8 @@ Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https:
 Você pode também, me acompanhar nas seguintes redes:
 <br>
 
-<a href="https://www.linkedin.com/in/miguelmoroni/"><img src="" alt="Medium"></a>
-<a href="https://twitter.com/miguelmoroni11"><img src="" alt="Medium"></a>
+<a href="https://www.linkedin.com/in/miguelmoroni/"><img src="" alt="Linkedin"></a>
+<a href="https://twitter.com/miguelmoroni11"><img src="" alt="Twitter"></a>
 
 <a href="https://medium.com/@miguelmoroni"><img src="" alt="Medium"></a>
 <a href="https://dev.to/miguelmoroni"><img src="" alt="Dev"></a>
