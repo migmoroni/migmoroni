@@ -10,14 +10,12 @@ E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvend
 Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https://miguelmoroni.github.io/devfolio/
 
 Você pode também, me acompanhar nas seguintes redes sociais:
-
 <br>
 <a href="https://www.linkedin.com/in/miguelmoroni/"><img src="" alt="Linkedin"></a>
 <a href="https://twitter.com/miguelmoroni11"><img src="" alt="Twitter"></a>
 <a href="https://www.reddit.com/user/miguelmoroni11"><img src="" alt="Reddit"></a>
 
 Como também nos seguintes Blogs:
-
 <br>
 <a href="https://medium.com/@miguelmoroni"><img src="" alt="Medium"></a>
 <a href="https://dev.to/miguelmoroni"><img src="" alt="Dev"></a>
