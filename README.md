@@ -1,19 +1,24 @@
 ### Olá! Eu sou o Miguel! 👋
 
 Sou um apaixonado por tecnologia e inovação !
-Tanto por isso fui escolher fazer Ciência da Computação, como forma de atuar com tecnologia, para permitir estar na atuação da resolução de problemas de nossa sociedade.
-Isso acaba sendo meu motor de motivação a estar estudando e melhorando, buscando assim, cada vez mais poder entregar cada vez mais valor as ações que faço.
+
+Tanto por isso, fui escolher fazer Ciência da Computação, para permitir estar na atuação da resolução de problemas de nossa sociedade.
+Isso acaba sendo meu motor de motivação a estar continuamente estudando e melhorando, buscando assim, cada vez mais poder entregar cada vez mais valor as ações que faço.
 
 E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvendo.
 
 Buscando conhecer mais meu lado Profissional ? Acessa aqui meu Portfolio: https://miguelmoroni.github.io/devfolio/
 
-Você pode também, me acompanhar nas seguintes redes:
-<br>
+Você pode também, me acompanhar nas seguintes redes sociais:
 
+<br>
 <a href="https://www.linkedin.com/in/miguelmoroni/"><img src="" alt="Linkedin"></a>
 <a href="https://twitter.com/miguelmoroni11"><img src="" alt="Twitter"></a>
+<a href="https://www.reddit.com/user/miguelmoroni11"><img src="" alt="Reddit"></a>
 
+Como também nos seguintes Blogs:
+
+<br>
 <a href="https://medium.com/@miguelmoroni"><img src="" alt="Medium"></a>
 <a href="https://dev.to/miguelmoroni"><img src="" alt="Dev"></a>
 <a href="https://www.tabnews.com.br/miguelmoroni"><img src="" alt="TabNews"></a>
