@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Miguel! 👋
 
-Sou do tipo de pessoa que não fica tranquila quando visualiza problemas. Tanto por isso fui escolher fazer Ciência da Computação, como forma de atuar com tecnologia, para permitir estar na atuação da resolução de problemas de nossa sociedade.
+Sou um apaixonado por tecnologia e inovação !
+Tanto por isso fui escolher fazer Ciência da Computação, como forma de atuar com tecnologia, para permitir estar na atuação da resolução de problemas de nossa sociedade.
 Isso acaba sendo meu motor de motivação a estar estudando e melhorando, buscando assim, cada vez mais poder entregar cada vez mais valor as ações que faço.
 
 E assim, estou aqui buscando compartilhar as soluções que estiver desenvolvendo.
