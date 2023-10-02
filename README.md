@@ -7,7 +7,7 @@ Sou um apaixonado por tecnologia e inovação !
   - 🎉 Tenho **28** anos
   - 👨‍🎓 Cursando **Ciencia da Computação** na **UNIP** de **Araraquara/SP**
   - 💻 Codando em Java, JavaScript e Ruby
-  - ⚡ Contribuindo freneticamente no Github
+  - ⚡ Contribuindo em projetos próprios e de terceiros
 
 ### Venha conhecer e se puder, contribuir, com o atual projeto que venho desenvolvendo:
 [Lista de Comparação de Linguagens de Programação](https://github.com/migmoroni/Programming-Languages-Comparison-List)
