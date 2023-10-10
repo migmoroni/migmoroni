@@ -9,10 +9,11 @@ Sou um apaixonado por tecnologia e inovação !
   - 💻 Codando em Java, JavaScript e Ruby
   - ⚡ Contribuindo em projetos próprios e de terceiros
 
-### Venha conhecer e se puder, contribuir, com o atual projeto que venho desenvolvendo:
-[Lista de Comparação de Linguagens de Programação](https://github.com/migmoroni/Programming-Languages-Comparison-List)
+## Projetos que desenvolvo:
+[Aprendizado-Acelerado-de-Programacao-por-Comparacao-de-Conceitos](https://github.com/migmoroni/Aprendizado-Acelerado-de-Programacao-por-Comparacao-de-Conceitos)
 
-Basimente paraleliza os conceitos mais importantes que estão em quase todas as linguagens, nos permitindo enchergar os padrões e acelerando o aprendizado de novas linguagens!
+Visa auxiliar no aprendizado de programação, pegando por base os conceitos gerais da computação e assim, acelerando o aprendizado de novas linguagens!
+Possui uma grande lacuna de novos bons profissionais, então este é meu pequeno passo inicial em me juntar a tantos outros que visam solucionar este problema.
 
 Me acompanhe no Linkedin:
 <br>
