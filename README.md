@@ -10,10 +10,10 @@ Sou um apaixonado por tecnologia e inovação !
   - ⚡ Contribuindo em projetos próprios e de terceiros
 
 ## Projetos que desenvolvo:
-[Aprendizado-Acelerado-de-Programacao-por-Comparacao-de-Conceitos](https://github.com/migmoroni/Aprendizado-Acelerado-de-Programacao-por-Comparacao-de-Conceitos)
+[Remember Password](https://github.com/migmoroni/remember-password)
 
-Visa auxiliar no aprendizado de programação, pegando por base os conceitos gerais da computação e assim, acelerando o aprendizado de novas linguagens!
-Possui uma grande lacuna de novos bons profissionais, então este é meu pequeno passo inicial em me juntar a tantos outros que visam solucionar este problema.
+Crie e relembre suas senhas, apenas do lado do cliente, através de palavras passe simples e fáceis de lembrar.
+No entanto, sem salva-las em lugar algum, de forma que, toda vez que precisa-las, basta apenas relembrar as palavras passe necessárias e pronto, terá suas senhas!
 
 Me acompanhe no Linkedin:
 <br>
