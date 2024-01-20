@@ -6,7 +6,7 @@ Sou um apaixonado por tecnologia e inovação !
 ## Sobre Mim!
   - 🎉 Tenho **28** anos
   - 👨‍🎓 Cursando **Ciencia da Computação** na **UNIP** de **Araraquara/SP**
-  - 💻 Codando em Java, JavaScript e Ruby
+  - 💻 Codando fortemente em JavaScript
   - ⚡ Contribuindo em projetos próprios e de terceiros
 
 ## Projetos que desenvolvo:
