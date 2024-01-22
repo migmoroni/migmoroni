@@ -12,8 +12,8 @@ Sou um apaixonado por tecnologia e inovação !
 ## Projetos que desenvolvo:
 [Remember Password](https://github.com/migmoroni/remember-password)
 
-Crie e relembre suas senhas, através de palavras passe simples e fáceis de lembrar.
-Sem salva-las em lugar algum, de forma que, toda vez que precisa-las, basta apenas relembrar as palavras passe necessárias e pronto, terá suas senhas!
+Crie e relembre suas senhas, através de palavras passe simples e fáceis de lembrar.<br>
+Sem salva-las em lugar algum, de forma que, toda vez que precisa-las, basta apenas relembrar as palavras passe necessárias e pronto, terá suas senhas!<br>
 Mais segurança, pois estará mantendo a base de origem de suas senhas, sempre com você!
 
 Me acompanhe no Linkedin:
