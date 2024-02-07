@@ -10,17 +10,22 @@ Sou um apaixonado por tecnologia e inovação !
   - ⚡ Contribuindo em projetos próprios e de terceiros
 
 ## Projetos que desenvolvo:
-[Remember Password](https://github.com/migmoroni/remember-password)
 
-Crie e relembre suas senhas, através de palavras passe simples e fáceis de lembrar.<br>
-Sem salva-las em lugar algum, de forma que, toda vez que precisa-las, basta apenas relembrar as palavras passe necessárias e pronto, terá suas senhas!<br>
-Mais segurança, pois estará mantendo a base de origem de suas senhas, sempre com você!
+### Projeto: RemPass
 
-Convido a ler os meus artigos, em enfase em tecnologia, nos seguintes blogs:
-<br>
-<a href="https://www.tabnews.com.br/migmoroni"><img src="" alt="TabNews"></a>
-<a href="https://dev.to/migmoroni"><img src="" alt="Dev"></a>
-<a href="https://medium.com/@migmoroni"><img src="" alt="Medium"></a>
+Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
+
+- Tecnologias utilizadas: JavaScript, HTML/CSS.
+- Link para o código-fonte: [link para o repositório](https://github.com/migmoroni/remember-password)
+- Demonstração ao vivo: [link para a demonstração](https://rempass.com).
+  
+## Artigos e Blog Posts
+
+Além de projetos, também escrevo sobre temas relacionados à tecnologia. Aqui estão alguns dos meus artigos e blog posts:
+
+- [TabNews](https://tabnews.com.br/migmoroni)
+- [Dev](https://dev.to/migmoroni)
+- [Medium](https://medium.com/@migmoroni)
 
 ## Contato
 
