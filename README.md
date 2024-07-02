@@ -14,9 +14,8 @@ Sou um apaixonado por tecnologia e inovação !
 
 Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
 
-- Tecnologias utilizadas: JavaScript, HTML/CSS.
-- Link para o código-fonte: [link para o repositório](https://github.com/migmoroni/remember-password)
-- Demonstração ao vivo: [link para a demonstração](https://rempass.com)
+- Conheça: [https://rempass.com](https://rempass.com)
+- Veja o código-fonte: [link para o repositório](https://github.com/migmoroni/remember-password)
   
 ## Artigos e Blog Posts
 
