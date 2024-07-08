@@ -10,6 +10,15 @@ Sou um apaixonado por tecnologia e inovação !
 
 ## Projetos que desenvolvo:
 
+
+### Projeto: Regex Quick
+
+Crie e teste facilmente suas expressões regulares!<br>
+Com teclado de comandos, modelos prontos para usar e podendo baixar para seu computador suas regex produzidas.<br>
+
+- Acesse aqui: [Regex Quick](https://migmoroni.github.io/RegexQuick/)
+- Veja o código-fonte: [link para o repositório](https://github.com/migmoroni/RegexQuick)
+  
 ### Projeto: RemPass
 
 Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
