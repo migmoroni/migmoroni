@@ -4,14 +4,13 @@
 Sou um apaixonado por tecnologia e inovação !
 
 ## Sobre Mim!
-  - 🎉 Tenho **28** anos
-  - 💻 Foco total em Web, buscando alta proficiencia em JavaScript e HTML/CSS
+  - 🎉 Tenho **29** anos
+  - 💻 Desenvolvedor Web Front-End
   - ⚡ Contribuindo em projetos próprios e colaborativos
 
 ## Projetos que desenvolvo:
 
-
-### Projeto: Regex Quick
+### Regex Quick
 
 Crie e teste facilmente suas expressões regulares!<br>
 Com teclado de comandos, modelos prontos para usar e podendo baixar para seu computador suas regex produzidas.<br>
@@ -19,7 +18,7 @@ Com teclado de comandos, modelos prontos para usar e podendo baixar para seu com
 - Acesse aqui: [Regex Quick](https://migmoroni.github.io/RegexQuick/)
 - Veja o código-fonte: [link para o repositório](https://github.com/migmoroni/RegexQuick)
   
-### Projeto: RemPass
+### RemPass
 
 Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
 
