@@ -10,20 +10,27 @@ Sou um apaixonado por tecnologia e inovação !
 
 ## Projetos que desenvolvo:
 
+### Divergentes em Ação!
+
+Projeto de extensão que lidero na Unip, com o tema sendo a promoção e concientização da Empregabilidade de Profissionais de Ti com TDAH.<br>
+
+- [Acesse aqui](https://divergentesemacao.github.io/website/)
+- [Veja o código-fonte](https://github.com/divergentesemacao/website)
+
 ### Regex Quick
 
 Crie e teste facilmente suas expressões regulares!<br>
 Com teclado de comandos, modelos prontos para usar e podendo baixar para seu computador suas regex produzidas.<br>
 
-- Acesse aqui: [Regex Quick](https://migmoroni.github.io/RegexQuick/)
-- Veja o código-fonte: [link para o repositório](https://github.com/migmoroni/RegexQuick)
+- [Acesse aqui](https://migmoroni.github.io/RegexQuick/)
+- [Veja o código-fonte](https://github.com/migmoroni/RegexQuick)
   
 ### RemPass
 
 Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
 
-- Conheça: [https://rempass.com](https://rempass.com)
-- Veja o código-fonte: [link para o repositório](https://github.com/migmoroni/remember-password)
+- [Acesse aqui](https://rempass.com)
+- [Veja o código-fonte](https://github.com/migmoroni/remember-password)
   
 ## Artigos e Blog Posts
 
