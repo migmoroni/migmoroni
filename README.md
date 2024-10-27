@@ -5,7 +5,7 @@ Sou um apaixonado por tecnologia e inovação !
 
 ## Sobre Mim!
   - 🎉 Tenho **29** anos
-  - 💻 Desenvolvedor Web Front-End
+  - 💻 Desenvolvedor Web FullStack
   - ⚡ Contribuindo em projetos próprios e colaborativos
 
 ## Projetos que desenvolvo:
