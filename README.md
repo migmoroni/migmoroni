@@ -29,7 +29,7 @@ Com teclado de comandos, modelos prontos para usar e podendo baixar para seu com
 
 Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
 
-- [Acesse aqui](https://rempass.com)
+- [Acesse aqui](https://migmoroni.github.io/remember-password/)
 - [Veja o código-fonte](https://github.com/migmoroni/remember-password)
   
 ## Artigos e Blog Posts
