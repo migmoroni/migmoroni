@@ -10,12 +10,11 @@ Sou um apaixonado por tecnologia e inovação !
 
 ## Projetos que desenvolvo:
 
-### Divergentes em Ação!
+### Password Manager
 
-Projeto de extensão que lidero na Unip, com o tema sendo a promoção e concientização da Empregabilidade de Profissionais de Ti com TDAH.<br>
+Crie e gerencie senhas seguras<br>
 
-- [Acesse aqui](https://divergentesemacao.github.io/website/)
-- [Veja o código-fonte](https://github.com/divergentesemacao/website)
+- [Veja o código-fonte](https://github.com/migmoroni/password-manager)
 
 ### Regex Quick
 
@@ -24,21 +23,6 @@ Com teclado de comandos, modelos prontos para usar e podendo baixar para seu com
 
 - [Acesse aqui](https://migmoroni.github.io/RegexQuick/)
 - [Veja o código-fonte](https://github.com/migmoroni/RegexQuick)
-  
-### RemPass
-
-Crie e lembre-se de suas senhas facilmente, sem armazená-las em nenhum lugar.<br>
-
-- [Acesse aqui](https://migmoroni.github.io/remember-password/)
-- [Veja o código-fonte](https://github.com/migmoroni/remember-password)
-  
-## Artigos e Blog Posts
-
-Além de projetos, também escrevo sobre temas relacionados à tecnologia. Aqui estão alguns dos meus artigos e blog posts:
-
-- [TabNews](https://tabnews.com.br/migmoroni)
-- [Dev](https://dev.to/migmoroni)
-- [Medium](https://medium.com/@migmoroni)
 
 ## Contato
 
