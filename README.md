@@ -4,11 +4,17 @@
 Sou um apaixonado por tecnologia e inovação !
 
 ## Sobre Mim!
-  - 🎉 Tenho **29** anos
-  - 💻 Desenvolvedor Web FullStack
+  - 🎉 Tenho **30** anos
+  - 💻 Desenvolvedor Web Front-End
   - ⚡ Contribuindo em projetos próprios e colaborativos
-
+    
 ## Projetos que desenvolvo:
+
+### GameGuild
+
+Projeto colaborativo que participo, de uma plataforma de aprendizagem, ensino e network para jogos eletrônicos
+
+- [Acesse aqui](https://github.com/gameguild-gg/website)
 
 ### Password Manager
 
