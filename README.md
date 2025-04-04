@@ -7,14 +7,17 @@ Sou um apaixonado por tecnologia e inovação !
   - 🎉 Tenho **30** anos
   - 💻 Desenvolvedor Web Front-End
   - ⚡ Contribuindo em projetos próprios e colaborativos
-    
-## Projetos que desenvolvo:
+
+## Projetos que participo:
 
 ### GameGuild
 
 Projeto colaborativo que participo, de uma plataforma de aprendizagem, ensino e network para jogos eletrônicos
 
 - [Acesse aqui](https://github.com/gameguild-gg/website)
+
+  
+## Projetos que desenvolvo:
 
 ### Password Manager
 
