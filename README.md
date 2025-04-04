@@ -12,7 +12,7 @@ Sou um apaixonado por tecnologia e inovação !
 
 ### Password Manager
 
-Crie e gerencie senhas seguras<br>
+Crie e gerencie senhas seguras através deste aplicativo para navegadores<br>
 
 - [Veja o código-fonte](https://github.com/migmoroni/password-manager)
 
